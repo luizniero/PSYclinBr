@@ -1,6 +1,6 @@
-# PSYclinPT
+# PSYclinBr
 
-PsyclinPT é um corpus formado por trezentos prontuários de admissão de pacientes a um serviço de emergência psiquiátrica.
+PsyclinBr é um corpus formado por trezentos prontuários de admissão de pacientes a um serviço de emergência psiquiátrica.
 O corpus está anotado, em formato IOB2, nas seguintes categorias:
 - Comportamento Autodestrutivo
 - Diagnóstico
@@ -12,7 +12,7 @@ O corpus está anotado, em formato IOB2, nas seguintes categorias:
 - Observação
 - Sintoma e Queixa Psíquica
 
-Há duas versões do PSYclinPT disponíveis neste repositório:
+Há duas versões do PSYclinBr disponíveis neste repositório:
 - Com especificadores
 - Simples.
 
@@ -44,7 +44,7 @@ A Versão 'Com especificadores' contém, além das categorias, subcategorias nom
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Origem
-O PSYclinPT é resultado de um trabalho de mestrado realizado por Luiz Henrique Pereira Niero, sob a orientação do Prof. Dr. Ivan Rizzo Guilherme, da UNESP e co-orientação do prof. Lucas Silva e Oliveira, da PUC-PR. A criação e anotação deste corpus, porém, só foi possível graças ao envolvimento de várias pessoas e instituições, como o Hospital Dr. Adolfo Bezerra de Menezes e a FAMERP.
+O PSYclinBr é resultado de um trabalho de mestrado realizado por Luiz Henrique Pereira Niero, sob a orientação do Prof. Dr. Ivan Rizzo Guilherme, da UNESP e co-orientação do prof. Lucas Silva e Oliveira, da PUC-PR. A criação e anotação deste corpus, porém, só foi possível graças ao envolvimento de várias pessoas e instituições, como o Hospital Dr. Adolfo Bezerra de Menezes e a FAMERP.
 
 
 
