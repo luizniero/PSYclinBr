@@ -18,14 +18,14 @@ Há duas versões do PSYclinPT disponíveis neste repositório:
 
 A Versão 'Com especificadores' contém, além das categorias, subcategorias nomeadas 'especificadores'. Esses especificadores subclassificam as categorias "Comportamento Autodestrutivo" e "Função Psíquica" da seguinte forma:
 
-####Comportamento Autodestrutivo:
+### Comportamento Autodestrutivo:
 - Autolesão
 - Ideação Suicida
 - Pensamento de morte ou ruína
 - Risco de suicídio
 - Tentativa de suicídio
 
-####Função Psíquica
+### Função Psíquica
 - Afetividade
 - Apetite
 - Atenção
