@@ -18,14 +18,14 @@ Há duas versões do PSYclinPT disponíveis neste repositório:
 
 A Versão 'Com especificadores' contém, além das categorias, subcategorias nomeadas 'especificadores'. Esses especificadores subclassificam as categorias "Comportamento Autodestrutivo" e "Função Psíquica" da seguinte forma:
 
-### Comportamento Autodestrutivo:
+#### Comportamento Autodestrutivo:
 - Autolesão
 - Ideação Suicida
 - Pensamento de morte ou ruína
 - Risco de suicídio
 - Tentativa de suicídio
 
-### Função Psíquica
+#### Função Psíquica
 - Afetividade
 - Apetite
 - Atenção
@@ -41,14 +41,14 @@ A Versão 'Com especificadores' contém, além das categorias, subcategorias nom
 - Vigilha
 - Vontade
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-##Origem
+## Origem
 O PSYclinPT é resultado de um trabalho de mestrado realizado por Luiz Henrique Pereira Niero, sob a orientação do Prof. Dr. Ivan Rizzo Guilherme, da UNESP e co-orientação do prof. Lucas Silva e Oliveira, da PUC-PR. A criação e anotação deste corpus, porém, só foi possível graças ao envolvimento de várias pessoas e instituições, como o Hospital Dr. Adolfo Bezerra de Menezes e a FAMERP.
 
 
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Licença para uso do Corpus PSYclinBR
 
